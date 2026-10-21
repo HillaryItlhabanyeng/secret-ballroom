@@ -1,0 +1,7 @@
+backend-ballroom/target/
+frontend/node_modules/
+frontend/dist/
+.idea/
+*.log
+.env
+.env.local
